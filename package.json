@@ -1,0 +1,16 @@
+{
+  "name": "teamsynergy_codeshastra",
+  "version": "1.0.0",
+  "description": "Portfolio Management Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polygon.io/client-js": "^7.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
